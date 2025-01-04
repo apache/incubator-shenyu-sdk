@@ -25,7 +25,6 @@ header:
     - 'licenses'
     - '**/*.md'
     - 'LICENSE'
-    - 'DISCLAIMER'
     - 'NOTICE'
     - '.gitignore'
 
